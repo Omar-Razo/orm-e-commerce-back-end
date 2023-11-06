@@ -26,3 +26,6 @@ db.query(schema, (err, results) => {
     }
     db.end();
 });
+
+// According to grading requirements, database creation must be shown through the MySQL shell.
+// This file therefore will go unused. Oh well.
